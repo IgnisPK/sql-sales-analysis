@@ -17,7 +17,7 @@ Chinook Sales Analysis (SQL): answered 8 business questions with joins, GROUP BY
 |---|----------|---------|
 | 1 | Which 5 countries bring in the most revenue? | The USA is first (523.06). Brazil is 4th (190.10). |
 | 2 | How much revenue came in each year? | Steady at 449 to 481 per year, with no clear growth. |
-| 3 | Who are the top 10 customers by total spent? | Spending is very even: 49.62 for the top customer, 42.62 for the 10th. |
+| 3 | Who are the top 10 customers by total spent? | The top 10 spent between 42.62 and 49.62 each, a narrow range. The top customer is about 2% of total revenue (49.62 of 2,328.60), so no single customer dominates. |
 | 4 | Which 5 genres earn the most? | Rock is first (826.65), about a third of all revenue. |
 | 5 | What are the 10 best-selling tracks? | No track sold more than 2 units, and 256 tracks tied at 2, so there are no true bestsellers. |
 | 6 | What is the average invoice value? | 5.65 across 412 invoices. |
