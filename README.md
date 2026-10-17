@@ -21,7 +21,7 @@ Chinook Sales Analysis (SQL): answered 8 business questions with joins, GROUP BY
 | 4 | Which 5 genres earn the most? | Rock is first (826.65), about a third of all revenue. |
 | 5 | What are the 10 best-selling tracks? | No track sold more than 2 units, and 256 tracks tied at 2, so there are no true bestsellers. |
 | 6 | What is the average invoice value? | 5.65 across 412 invoices. |
-| 7 | Which customers have the fewest invoices? | The lowest is 6 invoices, so purchases are spread evenly. |
+| 7 | Which customers have the fewest invoices? | The lowest is 6 invoices, so every customer made at least 6 purchases. |
 | 8 | How much revenue does each support rep's customer group bring in? | Three reps cover all customers. Jane Peacock leads (833.04). |
 
 ## Checks I ran
